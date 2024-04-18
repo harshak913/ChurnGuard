@@ -6,7 +6,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/harshak913/ChurnGuard">
     <img src="Web App/churnguard.jpg" alt="Logo" width="80" height="80">
   </a>
 
@@ -53,7 +53,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]()
+<a href="https://github.com/harshak913/ChurnGuard">
+  <img src="Web App/demo.png" alt="Logo" width="80" height="80">
+</a>
+
 
 ChurnGuard is designed to help banks lock in customer loyalty. The platform offers insights into a bank’s customer retention & the factors behind their churning. Then, given a customer being considered by bank employee & some basic information about the customer, we can predict the probability of churn and classify whether the customer is going to churn in the near future.
 
