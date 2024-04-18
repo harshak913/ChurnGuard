@@ -7,7 +7,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/churnguard.jpg" alt="Logo" width="80" height="80">
+    <img src="Web App/churnguard.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">ChurnGuard</h3>
@@ -233,7 +233,7 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[product-screenshot]: images/demo.png
+[product-screenshot]: Web App/demo.png
 [Conda]: https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white
 [Conda_url]: https://conda.io/projects/conda/en/latest/user-guide/install/index.html
 [Numpy]: https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white
