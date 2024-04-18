@@ -52,10 +52,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
+<div style="text-align:center">
 <a href="https://github.com/harshak913/ChurnGuard">
-  <img src="Web App/demo.png" alt="Logo" width="80" height="80">
+  <img src="Web App/demo.png" alt="demo" width=80% height=90%>
 </a>
+</div>
 
 
 ChurnGuard is designed to help banks lock in customer loyalty. The platform offers insights into a bank’s customer retention & the factors behind their churning. Then, given a customer being considered by bank employee & some basic information about the customer, we can predict the probability of churn and classify whether the customer is going to churn in the near future.
@@ -166,9 +167,9 @@ Please install the libraries listed in the requirements.txt file
    openai_api_key = 'ENTER YOUR API'
    ```
 5. Run the streamlit library
-  ```sh
-  streamlit run test_dashboard.py
-  ```
+   ```sh
+   streamlit run test_dashboard.py
+   ```
 
 
 
@@ -208,10 +209,11 @@ Distributed under the MIT License.
 <!-- CONTACT -->
 ## Team Contact
 
-Harsha Gurram - [LinkedIn](https://www.linkedin.com/in/harshakolachina/) - harsha.gurram@utdallas.edu
-Harsha Kolachina - [LinkedIn](https://www.linkedin.com/in/harshakolachina/) - harsha.kolachina@utdallas.edu
-Mihir Padsumbiya  - [LinkedIn](https://www.linkedin.com/in/mihir-padsumbiya/) - MihirHarjivan.Padsumbiya@UTDallas.edu
-Viswa Kotra - [LinkedIn](https://www.linkedin.com/in/viswa-kotra/) - Viswaretas.Kotra@UTDallas.edu
+- Harsha Gurram - [LinkedIn](https://www.linkedin.com/in/harshakolachina/) - harsha.gurram@utdallas.edu
+- Harsha Kolachina - [LinkedIn](https://www.linkedin.com/in/harshakolachina/) - harsha.kolachina@utdallas.edu
+- Mihir Padsumbiya  - [LinkedIn](https://www.linkedin.com/in/mihir-padsumbiya/) - MihirHarjivan.Padsumbiya@UTDallas.edu
+- Viswa Kotra - [LinkedIn](https://www.linkedin.com/in/viswa-kotra/) - Viswaretas.Kotra@UTDallas.edu
+
 
 
 Project Link: [https://github.com/harshak913/ChurnGuard](https://github.com/harshak913/ChurnGuard)
@@ -236,7 +238,7 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[product-screenshot]: Web App/demo.png
+[product-screenshot]: data/demo.png
 [Conda]: https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white
 [Conda_url]: https://conda.io/projects/conda/en/latest/user-guide/install/index.html
 [Numpy]: https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white
