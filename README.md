@@ -209,10 +209,10 @@ Distributed under the MIT License.
 <!-- CONTACT -->
 ## Team Contact
 
-- Harsha Gurram - [LinkedIn](https://www.linkedin.com/in/harshakolachina/) - harsha.gurram@utdallas.edu
-- Harsha Kolachina - [LinkedIn](https://www.linkedin.com/in/harshakolachina/) - harsha.kolachina@utdallas.edu
-- Mihir Padsumbiya  - [LinkedIn](https://www.linkedin.com/in/mihir-padsumbiya/) - MihirHarjivan.Padsumbiya@UTDallas.edu
-- Viswa Kotra - [LinkedIn](https://www.linkedin.com/in/viswa-kotra/) - Viswaretas.Kotra@UTDallas.edu
+- Harsha Gurram - [LinkedIn](https://www.linkedin.com/in/harshakolachina/)
+- Harsha Kolachina - [LinkedIn](https://www.linkedin.com/in/harshakolachina/)
+- Mihir Padsumbiya  - [LinkedIn](https://www.linkedin.com/in/mihir-padsumbiya/)
+- Viswa Kotra - [LinkedIn](https://www.linkedin.com/in/viswa-kotra/)
 
 
 
