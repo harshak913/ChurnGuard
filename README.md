@@ -16,8 +16,9 @@
     Streamlined to help your business lock in customer loyalty
     <br />
     <a href="https://github.com/harshak913/ChurnGuard"><strong>Explore the docs »</strong></a>
-    <a href="https://churnguard-li84cj7r3jbm5cxh9u4djz.streamlit.app/"><strong>Hosted web app</strong></a>
     <br />
+    <br>
+      <a href="https://churnguard-li84cj7r3jbm5cxh9u4djz.streamlit.app/"><strong>Hosted web app</strong></a>
     <br />
    <!-- <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a> -->
   </p>
